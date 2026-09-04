@@ -1,8 +1,10 @@
 
- first file   
- I did create a function that subtracts,ex:  5-6=-1
-
 Subteam A:
     the add function adds two integers together
     it might break when integers get to large
-    to use it call the add function and put both integers inside, like this: add(1, 4)
+    to use it call the add function and put both integers inside, like this: add(1, 4)   
+
+I did create a function that subtracts,ex:  5-6=-1
+
+Subteam C:
+    The multiply function multipies two integers together. The function might break when you try to multiply two matrices of incompat
