@@ -1,4 +1,7 @@
 
+ first file   
+ I did create a function that subtracts,ex:  5-6=-1
+
 Subteam A:
     the add function adds two integers together
     it might break when integers get to large
