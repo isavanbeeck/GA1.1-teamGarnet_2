@@ -15,3 +15,6 @@ Notebook "add" has been extended by addition of "sumlist" function; sums a list 
 Subteam C:
     The multiply function multipies two integers together. The function might break when you try to multiply two matrices of incompat
 
+Subteam C extension:
+    distance_from_zero(x) tells you how far a number is from zero, ignoring the minus sign.
+    
